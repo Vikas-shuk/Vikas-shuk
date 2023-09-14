@@ -1,12 +1,4 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+<img align="left" height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 
 ###
 
@@ -35,3 +27,84 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/vikasshukla76" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="vikasshukla5537@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h1 align="left">Hello World!!</h1>
+
+###
+
+<img align="right" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/my+profile.png"  />
+
+###
+
+<h3 align="left">Work History</h3>
+
+###
+
+<p align="left">- Software Developer<br>- Developed an LMS that over 50,000 kids are currently using<br>- Developed artificially intelligent virtual labs for mobile and low-configuration computer coding education<br>- Created AI Interviewer powered by GPT4 -https://www.codingpro.online/AIinterview<br>- Developed features for processing images to show desired search results, improving user experience and search efficiency increasing user engagement by 2%<br>- Published Artificial Intelligence book which is currently studied by over 5000 kids</p>
+
+###
+
+<h3 align="left">Achievements</h3>
+
+###
+
+<p align="left">- Economic Times Leader of the Year 2022 in Artificial Intelligence<br>- Featured in Business Outreach 30 under 30 in the year 2023<br>- Gaming partner Jio & Bigbasket<br>- Btech IIT BHU</p>
+
+###
+
+<h1 align="left">Games developed by me</h1>
+
+###
+
+<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/bookCrick.gif"  />
+
+###
+
+<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/carrom.gif"  />
+
+###
+
+<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/ewarBask.gif"  />
+
+###
+
+<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/spaceblast.gif"  />
+
+###
+
+<br clear="both">
+
+<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/pipers.gif"  />
+
+###
+
+<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/cricket.gif"  />
+
+###
+
+<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/airstrike.gif"  />
+
+###
+
+<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/candy.gif"  />
+
+###
+
+<br clear="both">
+
+<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/word.gif"  />
+
+###
