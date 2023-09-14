@@ -105,6 +105,6 @@
 
 ###
 
-<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/spaceblast.gif"  />
+<img align="right" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/spaceblast.gif"  />
 
 ###
