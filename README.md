@@ -31,10 +31,10 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/vikasshukla76" target="_blank">
+  <a href="https://www.linkedin.com/in/vikasshukla76/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="vikasshukla5537@gmail.com" target="_blank">
+  <a href="https://gmailto:vikasshukla5537@gmail.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -81,10 +81,6 @@
 
 ###
 
-<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/spaceblast.gif"  />
-
-###
-
 <br clear="both">
 
 <img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/pipers.gif"  />
@@ -99,12 +95,16 @@
 
 ###
 
+<br clear="both">
+
+<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/word.gif"  />
+
+###
+
 <img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/candy.gif"  />
 
 ###
 
-<br clear="both">
-
-<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/word.gif"  />
+<img align="left" height="400" src="https://codingjrgfs.s3.ap-south-1.amazonaws.com/games/photos/game+gifs/spaceblast.gif"  />
 
 ###
